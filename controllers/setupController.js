@@ -11,19 +11,19 @@ module.exports = function(app) {
        var starterTodos = [
            {
                username: 'test',
-               todo: 'Buy milk',
+               content: 'Buy milk',
                isDone: false,
                hasAttachment: false
            },
            {
                username: 'test',
-               todo: 'Feed dog',
+               content: 'Feed dog',
                isDone: false,
                hasAttachment: false
            },
            {
                username: 'test',
-               todo: 'Learn Node',
+               content: 'Learn Node',
                isDone: false,
                hasAttachment: false
            }
